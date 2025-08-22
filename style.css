@@ -227,3 +227,14 @@ button:hover {
   }
 
 }
+footer {
+    text-align: center;
+    padding: 15px;
+    background: white;
+    color: #333;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    margin-top: 20px;
+    font-size: 0.9rem;
+}
+
