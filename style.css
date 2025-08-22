@@ -32,7 +32,7 @@ nav {
 .nav-links {
   list-style: none;
   display: flex;
-  margin-left:500px;
+  margin-left:900px;
   gap: 25px;
 }
 
@@ -237,4 +237,5 @@ footer {
     margin-top: 20px;
     font-size: 0.9rem;
 }
+
 
