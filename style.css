@@ -32,7 +32,7 @@ nav {
 .nav-links {
   list-style: none;
   display: flex;
-  margin-left: 980px;
+  margin-left:500px;
   gap: 25px;
 }
 
@@ -225,4 +225,5 @@ button:hover {
   .form-row {
     flex-direction: column;
   }
+
 }
